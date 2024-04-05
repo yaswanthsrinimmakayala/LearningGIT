@@ -1,0 +1,1 @@
+There are soo many commands in GIT. Every orgnization uses git.
