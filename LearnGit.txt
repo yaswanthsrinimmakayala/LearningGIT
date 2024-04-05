@@ -1,6 +1,4 @@
 This file cotains about the GIT and version control.
-<<<<<<< HEAD
 GIT: it is the version control .Version control means it managing and rolling back the code.It helps us to keep track of different versions of code and configuration files.Information changes over time as the security requirements increases overtime. In IT sector it is important to have history of changes and modification over time.
-=======
 Let us discuss about the Version Control first and then GIT
->>>>>>> newContent
+
