@@ -1,1 +1,2 @@
 This file cotains about the GIT and version control.
+Let us discuss about the Version Control first and then GIT
